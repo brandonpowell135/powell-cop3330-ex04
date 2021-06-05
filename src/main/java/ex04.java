@@ -1,5 +1,7 @@
-import java.util.Scanner;
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 4 Solution
+ *  Copyright 2021 Brandon Powell
+ */
 /*Exercise 4 - Mad Lib
 Mad libs are a simple game where you create a story template with blanks for words. You, or another player, then construct a list of words and place them into the story, creating an often silly or funny story as a result.
 
@@ -22,6 +24,7 @@ Challenges
 Add more inputs to the program to expand the story.
 Implement a branching story, where the answers to questions determine how the story is constructed.
  */
+import java.util.Scanner;
 public class ex04 {
     static Scanner in = new Scanner(System.in);
 
